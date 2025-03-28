@@ -10,6 +10,7 @@
 
 body{
    font-family: "Poppins", sans-serif;
+   background-color : #A9B0C1
 
 }
 
@@ -201,6 +202,10 @@ section{
     justify-content: center;
     margin-top: 1rem;
     gap: 1rem;
+}
+
+.pic{
+    border-radius: 50%;
 }
 /* Icons */
 
